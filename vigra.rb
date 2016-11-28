@@ -1,8 +1,8 @@
 class Vigra < Formula
   desc "Image processing and analysis library"
   homepage "https://ukoethe.github.io/vigra/"
-  url "https://github.com/ukoethe/vigra/releases/download/Version-1-10-0/vigra-1.10.0-src-with-docu.tar.gz"
-  sha256 "42d4a361b0bb52fbfdae7e76000698be04dabba77be3f4248d369139fe96a099"
+  url "https://github.com/ukoethe/vigra/releases/download/Version-1-11-0/vigra-1.11.0-src.tar.gz"
+  sha256 "68617de347eae7d4700a8f66cd59ce31d6cd92ffb4a235b4df34c688673af5cb"
   bottle do
     cellar :any
     sha256 "f3dcc0036a4465781fc8a17c6f36ac05fac4f7962e0701d07cb34352501baa00" => :el_capitan
