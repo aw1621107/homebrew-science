@@ -3,8 +3,6 @@ class Vigra < Formula
   homepage "https://ukoethe.github.io/vigra/"
   url "https://github.com/ukoethe/vigra/releases/download/Version-1-11-0/vigra-1.11.0-src.tar.gz"
   sha256 "68617de347eae7d4700a8f66cd59ce31d6cd92ffb4a235b4df34c688673af5cb"
-  revision 1
-
   head "https://github.com/ukoethe/vigra.git"
 
   bottle do
